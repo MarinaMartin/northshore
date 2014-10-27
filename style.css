@@ -120,7 +120,7 @@ ul {
 /* Containers
 /* ---------------------------------------------------------------------- */
 #wrap {
-	width: 1020px;
+	width: 100%;
 	max-width: 100%;
 	margin: 0 auto;
 	border-top: 5px solid #383838;
@@ -131,7 +131,7 @@ ul {
 }
 
 .container {
-	width: 940px;
+	width: 95%;
 	max-width: 100%;
 	margin: 0 auto;
 }
